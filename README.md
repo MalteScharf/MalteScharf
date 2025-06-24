@@ -2,7 +2,7 @@
 
 I'm Malte — a tech enthusiast with a background in IT consulting and a growing passion for software development.
 
-After nearly four years in IT consulting, I decided to shift gears and pursue a **Master's in Applied Computer Science**. My goal is to focus more directly on the technical side of problem-solving — designing and building solutions, not just recommending them.
+After 3.5 years in IT consulting, I decided to shift gears and pursue a **Master's in Applied Computer Science**. My goal is to focus more directly on the technical side of problem-solving — designing and building solutions.
 
 ---
 
