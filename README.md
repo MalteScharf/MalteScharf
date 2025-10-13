@@ -7,8 +7,8 @@ After 3.5 years in IT consulting, I decided to shift gears and pursue a **Master
 ---
 
 #### 🚀 What I'm working on
-- Exploring **Machine Learning** with Python and scikit-learn
-- Building interactive front-end components with **JavaScript** and **Swiper.js**
+- Exploring **Machine Learning** with Python 
+- Building interactive front-end components with **JavaScript** 
 - Improving my full-stack skills with real-world projects
 
 ---
